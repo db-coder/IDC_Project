@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: alpha.bst
+Database file #1: main.bib
+Warning--entry type for "Site1" isn't style-file defined
+--line 1 of file main.bib
+Warning--entry type for "Site2" isn't style-file defined
+--line 7 of file main.bib
+Warning--entry type for "Site3" isn't style-file defined
+--line 13 of file main.bib
+You've used 3 entries,
+            2543 wiz_defined-function locations,
+            572 strings with 4652 characters,
+and the built_in function-call counts, 829 in all, are:
+= -- 78
+> -- 24
+< -- 3
++ -- 8
+- -- 6
+* -- 35
+:= -- 139
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 15
+chr.to.int$ -- 1
+cite$ -- 3
+duplicate$ -- 33
+empty$ -- 76
+format.name$ -- 12
+if$ -- 173
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 18
+num.names$ -- 9
+pop$ -- 27
+preamble$ -- 1
+purify$ -- 18
+quote$ -- 0
+skip$ -- 32
+stack$ -- 0
+substring$ -- 21
+swap$ -- 3
+text.length$ -- 3
+text.prefix$ -- 3
+top$ -- 0
+type$ -- 24
+warning$ -- 0
+while$ -- 6
+width$ -- 5
+write$ -- 38
+(There were 3 warnings)

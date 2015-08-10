@@ -1,0 +1,18 @@
+\begin{thebibliography}{www14b}
+
+\bibitem[www14a]{Site3}
+www.box2d.org.
+\newblock Box2d documentation.
+\newblock \url{http://box2d.org/documentation.html}, 2014.
+
+\bibitem[www14b]{Site1}
+www.box2d.org.
+\newblock Box2d manual.
+\newblock \url{http://www.box2d.org/manual.html}, 2014.
+
+\bibitem[www14c]{Site2}
+www.iforce2d.net.
+\newblock Box2d tutorials.
+\newblock \url{http://www.iforce2d.net/b2dtut/}, 2014.
+
+\end{thebibliography}
